@@ -19,25 +19,27 @@
         }
     }
     h2 {
-        float: left;
+      float: left;
+      padding-right: 25px;
+      @include media-query($on-palm) {
+        display: block;
+        float: none;
+      }
     }
 }
 
 .nav-list {
-    list-style: none;
     float: right;
+    list-style: none;
     li {
         display: inline-block;
-        & .nav-title {
-            font-size: $base-font-size * 1.5;
-            padding-right: $spacing-unit * 2;
-        }
         &:not(:last-child) {
             padding-right: $spacing-unit;
         }
     }
     @include media-query($on-palm) {
-        float: left;
+        display: block;
+        float: none;
         margin-left: 0;
     }
 }
