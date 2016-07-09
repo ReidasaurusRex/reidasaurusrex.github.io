@@ -2,22 +2,58 @@
 layout: default
 ---
 
-<div class="home">
+<p>My name's Reid, and this is my little plot of internet-land.</p>
 
-  <h1 class="page-heading">Posts</h1>
+<p>For work, I like to </p>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<ul>
+  <li>make coffee</li>
+  <li>write <code>code</code></li>
+  <li>try to help run a company</li>
+</ul>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<p>For fun, I like to </p>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<ul>
+  <li>write <code>code</code></li>
+  <li>play piano</li>
+  <li>ride my bike</li>
+  <li>struggle at yoga</li>
+  <li>write not code</li>
+  <li>drink good beer with friends</li>
+</ul>
 
-</div>
+<p>When I try to describe myself, I use words like</p>
+
+<ul>
+  <li>tall</li>
+  <li>environmentalist</li>
+  <li>mindful-ish</li>
+  <li>minimalist</li>
+  <li>curious</li>
+</ul>
+
+<p>The company I'm working on is called <a href="http://www.nu.world" title="check us out!" target="_blank">Nu.world</a>. We're working to provide a social platform that incentivizes users to take personal responsibility and control of their environmental impact.</p>
+<p>If you want to see some of my writing, take a look at my <a href="/blog/" title="Huzzah for reading!">blog</a>. If you'd like to learn more about me as a developer, head over to my <a href="/projects" title="huzzah for side projects!">projects</a> page, or see my <a href="/resume" title="huzzah for r&#233;sum&#233;s!">r&#233;sum&#233;</a>.</p>
+
+<p>Thanks for stopping in. Have a kick ass <span id="parting-time"></span>.</p>
+
+<script>
+  var currentHour = new Date().getHours();
+  function getStatementFromHour(hour) {
+    if (hour >= 3 && hour < 5) {
+      return "early morning";
+    } else if (hour >= 5 && hour < 12) {
+        return "morning";
+    } else if (hour >= 12 &&hour < 17 ) {
+        return "afternoon";
+    } else if (hour >= 17 && hour < 19) {
+        return "evening";
+    } else if (hour >= 19 && hour < 23) {
+        return "night";
+    } else {
+        return "late night";
+    }
+  }
+  document.getElementById("parting-time").innerHTML = getStatementFromHour(currentHour);
+</script>
