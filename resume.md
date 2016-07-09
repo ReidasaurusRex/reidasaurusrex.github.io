@@ -1,5 +1,6 @@
 ---
-layout: page
-title: Resume
-permalink: /resume/
+layout: default
+permalink: /resume
 ---
+
+I am a resume!
