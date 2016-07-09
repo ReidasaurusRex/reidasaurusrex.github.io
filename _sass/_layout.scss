@@ -33,7 +33,6 @@
 
 .nav-list {
     float: right;
-    list-style: none;
     li {
         display: inline-block;
         &:not(:last-child) {
@@ -61,8 +60,6 @@
 
 .post-list {
     margin-left: 0;
-    list-style: none;
-
     > li {
         margin-bottom: $spacing-unit;
     }

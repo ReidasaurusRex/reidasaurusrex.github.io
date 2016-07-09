@@ -66,6 +66,7 @@ figcaption {
  * Lists
  */
 ul, ol {
+    list-style: none;
     margin-left: $spacing-unit;
 }
 
@@ -75,8 +76,6 @@ li {
          margin-bottom: 0;
     }
 }
-
-
 
 /**
  * Headings
