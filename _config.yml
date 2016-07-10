@@ -11,3 +11,4 @@ github_username:  ReidasaurusRex
 permalink: /blog/:title
 # Build settings
 markdown: kramdown
+author: Reid H Lewis
