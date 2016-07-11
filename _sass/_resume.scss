@@ -4,23 +4,47 @@
   margin: 0 auto;
   max-width: 520px;
   h1 {
-    color: $bold-color;
+    color: $dark-color;
     margin-bottom: 0;
   }
   a {
     color: $text-color;
   }
-  .contact-info {
+  ul {
     margin-left: 0;
+  }
+  .dark-span {
+    color: $dark-color;
+  }
+  .contact-info {
     li {
       font-style: italic;
     }
   }
   .section-header {
-    color: $bold-color;
+    color: $dark-color;
     margin-bottom: -25px;
     margin-left: -100px - $spacing-unit * 2;
     max-width: 100px;
     text-align: right;
+  }
+
+  .skills-header {
+    margin-bottom: -55px;
+  }
+
+  .skill-list > li > ul {
+    margin-top: $spacing-unit / 2;
+  }
+
+  .subskill-list {
+    margin-left: $spacing-unit;
+    margin-bottom: $spacing-unit / 2;
+    li {
+      max-width: 150px;
+      span {
+        float: right;
+      }
+    }
   }
 }
