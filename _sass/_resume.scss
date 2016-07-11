@@ -1,0 +1,26 @@
+.resume-page {
+  border-left: 1px solid $brand-color;
+  padding-left: $spacing-unit;
+  margin: 0 auto;
+  max-width: 520px;
+  h1 {
+    color: $bold-color;
+    margin-bottom: 0;
+  }
+  a {
+    color: $text-color;
+  }
+  .contact-info {
+    margin-left: 0;
+    li {
+      font-style: italic;
+    }
+  }
+  .section-header {
+    color: $bold-color;
+    margin-bottom: -25px;
+    margin-left: -100px - $spacing-unit * 2;
+    max-width: 100px;
+    text-align: right;
+  }
+}
