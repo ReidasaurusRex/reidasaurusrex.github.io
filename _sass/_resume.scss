@@ -7,41 +7,42 @@
     color: $dark-color;
     margin-bottom: 0;
   }
-  a {
-    color: $text-color;
-  }
   ul {
     margin-left: 0;
   }
   .dark-span {
-    color: $dark-color;
+    color: #0F0F0F;
   }
   .contact-info {
+    a {
+      color: $text-color;
+    }
     li {
       font-style: italic;
     }
   }
   .section-header {
     color: $dark-color;
-    margin-bottom: -25px;
+    margin-bottom: -26px;
     margin-left: -100px - $spacing-unit * 2;
     max-width: 100px;
     text-align: right;
   }
-
   .skills-header {
     margin-bottom: -55px;
+    span {
+      color: $text-color;
+      font-size: 80%;
+    }
   }
-
   .skill-list > li > ul {
     margin-top: $spacing-unit / 2;
   }
-
   .subskill-list {
     margin-left: $spacing-unit;
     margin-bottom: $spacing-unit / 2;
     li {
-      max-width: 150px;
+      width: 180px;
       span {
         float: right;
       }
