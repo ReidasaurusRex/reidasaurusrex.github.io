@@ -119,7 +119,7 @@
       });
       return bestSkills;
     } else {
-      console.log("%cCouldn\'t find skill " + skill + ". Try languages, frameworks, deployment, or otherSkills.", "color: red;");
+      throw new ReferenceError("Couldn\'t find skill " + skill + ". Try languages, frameworks, deployment, or otherSkills.");
     }
   };
 
