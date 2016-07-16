@@ -4,7 +4,9 @@
   });
 
 
-  var sound = {};
+  var sound = {
+    description: "A way to play songs through SoundCloud\s API. If you know the ID number of a SoundCloud track, provide it as a param to the sound.playTrackByID function"
+  };
   
   sound.playTrackByID = function(num) {
     // Play a soundcloud sound by its ID number
