@@ -51,7 +51,7 @@
 
   @include media-query($on-laptop) {
     .section-header {
-      margin-bottom: $spacing-unit;
+      margin-bottom: $spacing-unit / 2;
       margin-left: 0;
       text-align: left;
     }
