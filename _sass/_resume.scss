@@ -48,4 +48,26 @@
       }
     }
   }
+
+  @include media-query($on-laptop) {
+    .section-header {
+      margin-bottom: $spacing-unit;
+      margin-left: 0;
+      text-align: left;
+    }
+    .skills-header {
+      max-width: 250px;
+      br {
+        content: " ";
+      }
+      span {
+        padding-left: $spacing-unit;
+      }
+    }
+  }
+
+  @include media-query($on-palm) {
+    border-left: none;
+    padding-left: 0;
+  }
 }
