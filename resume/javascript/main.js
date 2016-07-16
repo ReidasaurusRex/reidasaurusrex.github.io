@@ -136,4 +136,5 @@
 
   var consoleCodeStyles = "background-color: #eef; color: #636363";
   console.log("Thanks for checking out my r\xE9sum\xe9. Take a look at the " + "%cresume%c" + " object, or view the " + "%csound%c" + " object to play some SoundCloud while you look it over. If you\'d like, of course.", consoleCodeStyles, "", consoleCodeStyles, "");
+  console.log("If the above objects aren\'t defined, reload the page. If they\'re still not defined, well. Would love an email describing the bug!");
 })();
