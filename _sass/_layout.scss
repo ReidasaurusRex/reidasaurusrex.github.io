@@ -21,6 +21,9 @@
     &.blog-nav {
         .nav-list {
             margin-left: 0;
+            li:first-child {
+                color: $dark-color;
+            }
         }
     }
     h2 {
