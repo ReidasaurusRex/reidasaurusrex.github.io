@@ -22,7 +22,9 @@
         .nav-list {
             margin-left: 0;
             li:first-child {
-                color: $dark-color;
+                a {
+                    color: $dark-color;
+                }
             }
         }
     }
@@ -90,7 +92,6 @@
  * Blog 
  */
 .post, .blog-index {
-    margin: 0 auto;
     max-width: 520px;
     position: relative;
 }
