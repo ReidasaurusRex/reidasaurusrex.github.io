@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Civilization, Consumerism, and Taking Risks
+title: Civilization and Consumerism
 ---
 
 I feel like I should begin with a disclaimer. With some posts, I feel somewhat qualified to talk about the things I’m talking about. Whether that is due to a class, a good book I read, or probings to my internal feelings, I sort of feel like maybe I know what I’m talking about. This post is different. I have no idea what I’m talking about. It’s just a compilation of a lot of seemingly unrelated thoughts into a coherent piece. Personally, I think it’s kind of neat. I hope you find the same.

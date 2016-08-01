@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brain Plasticity, Traveling, and Being Uncool
+title: Brain Plasticity
 ---
 
 So, I’m relatively happy with the person I am today. I usually attribute this to a fairly even split of the ol’ nature vs nurture argument: I’m extremely grateful for the (usually) healthy and capable body I was born into, and the mind that came along with it – i.e., the nature. I’m also extremely grateful for my parents, friends, and lately self for sculpting that mind into the way it operates today – i.e., the nurture. I love that I can hop on a bike and pedal my way into the mountains around the beautiful town I live in. I love that I can, and often do, try to apply my thoughts towards bigger pictures and complex topics.

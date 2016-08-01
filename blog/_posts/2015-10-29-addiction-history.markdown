@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Nazis, Addiction, and History
+title: Addiction and History
 ---
 
 So, I have an addictive personality. I’m lucky in that the things that have really addicted me throughout my life haven’t been intentionally engineered to make me physically hooked on them, but I have fought my battles none the less. This recognition of my addiction is part of the reason I have never tried most drugs, and try to remain extremely cognizant of my alcohol, soda, and even unhealthy food intake.
