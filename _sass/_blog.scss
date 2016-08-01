@@ -1,3 +1,24 @@
 .blog-index li a {
   color: #7F7F7F;
 }
+
+.page-navigation .navigation-link {
+  display: inline-block;
+}
+
+.page-navigation .prev {
+  float: left;
+}
+
+.page-navigation .next {
+  float: right;
+}
+
+.page-navigation .navigation-link {
+  @include media-query($on-palm) {
+    display: block;
+    float: none;
+    padding-bottom: $spacing-unit / 2;
+    text-align: center;
+  }  
+}
