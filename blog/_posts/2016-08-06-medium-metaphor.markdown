@@ -28,6 +28,8 @@ It's distinctly possible that this blog will soon, or already is, almost entirel
 
 <hr class="link-divider">
 
+What's Nu? <a href="http://www.nu.world" target="_blank">Check us out</a>
+
 The Shallows by Nicholas Carr: <a href="https://www.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393339750" target="_blank">Amazon</a>
 
 The partially read post: <a href="{% post_url 2016-07-31-collective-maturation %}" target="_blank">Collective Maturation</a>
