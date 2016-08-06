@@ -1,8 +1,10 @@
 --- 
 layout: blog
+title: Welcome to the blog
 ---
 <div class="blog-index">
 {% assign post = site.posts.first %}
+{% assign title = post.title %}
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ post.title }}</h1>
     <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time> • {% if post.author %}guest post by {% endif %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
