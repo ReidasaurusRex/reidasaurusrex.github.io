@@ -39,6 +39,9 @@
 .nav-list {
     &.right-list {
         float: right;
+        @include media-query($on-palm) {
+            float: none;
+        }
     }
     li {
         display: inline-block;
@@ -48,7 +51,6 @@
     }
     @include media-query($on-palm) {
         display: block;
-        float: none;
         margin-left: 0;
     }
 }
