@@ -93,6 +93,6 @@
   window.resume = resume;
 
   var consoleCodeStyles = "background-color: #eef; color: #636363";
-  console.log("Thanks for checking out my r\xE9sum\xe9. Take a look at the " + "%cresume%c" + " object, and see the best skills function with languages, frameworks, deployment, or otherSkills as string parameters.", consoleCodeStyles);
+  console.log("Thanks for checking out my r\xE9sum\xe9. Take a look at the " + "%cresume%c" + " object, and see the best skills function with languages, frameworks, deployment, or otherSkills as string parameters.", consoleCodeStyles, "");
   // console.log("If the above objects aren\'t defined, reload the page. If they\'re still not defined, well. Would love an email describing the bug!");
 })();
