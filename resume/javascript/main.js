@@ -1,39 +1,4 @@
 (function() {
-  SC.initialize({
-    client_id: '78329df5c12ce4478aaebe59c073f498'
-  });
-
-
-  var sound = {
-    description: "A way to play songs through SoundCloud\s API. If you know the ID number of a SoundCloud track, provide it as a param to the sound.playTrackByID function"
-  };
-  
-  sound.playTrackByID = function(num) {
-    // Play a soundcloud sound by its ID number
-    SC.stream('/tracks/' + num).then(function(player) {
-      console.log(player);
-      window.player = player;
-      player.play();
-    });
-  };
-  
-  sound.pause = function() {
-    // Pause current sound if playing
-    if (window.player) {
-      window.player.pause();
-    } else {
-      console.log("Nothing playing");
-    }
-  };
-  
-  sound.play = function() {
-    // Play current sound if selected
-    if (window.player) {
-      window.player.play();
-    } else {
-      console.log("No song selected yet");
-    }
-  };
 
   var resume = {};
 
@@ -125,16 +90,9 @@
     }
   };
 
-  var resumeToys = {
-    sound: sound,
-    resume: resume
-  };
-
-  window.resumeToys = resumeToys;
-  window.sound = sound;
   window.resume = resume;
 
   var consoleCodeStyles = "background-color: #eef; color: #636363";
-  console.log("Thanks for checking out my r\xE9sum\xe9. Take a look at the " + "%cresume%c" + " object, or view the " + "%csound%c" + " object to play some SoundCloud while you look it over. If you\'d like, of course.", consoleCodeStyles, "", consoleCodeStyles, "");
-  console.log("If the above objects aren\'t defined, reload the page. If they\'re still not defined, well. Would love an email describing the bug!");
+  console.log("Thanks for checking out my r\xE9sum\xe9. Take a look at the " + "%cresume%c" + " object, and see the best skills function with languages, frameworks, deployment, or otherSkills as string parameters.", consoleCodeStyles);
+  // console.log("If the above objects aren\'t defined, reload the page. If they\'re still not defined, well. Would love an email describing the bug!");
 })();
