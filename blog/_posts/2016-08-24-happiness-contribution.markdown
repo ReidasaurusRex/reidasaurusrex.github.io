@@ -1,0 +1,21 @@
+---
+layout: post
+title: Happiness & Contribution
+excerpt: In search of happiness, societal contribution, or both.
+---
+
+For a lot of my young adult life, I've considered two primary life paths: a life focused on happiness and satisfaction, or a life focused on contributing to society and humanity at large. I had always thought that the two were mutually exclusive, indicated by the keyword _or_ in the prior sentence. A life of happiness was one where I focused on _me_, while a life of contribution was one where I focused on _us_. 
+
+Even at a younger age, I'd understood that a _me_ focused life was different than that of mainstream America's expectations. I didn't view a life of joy as one filled with big houses and multiple cars. On the contrary, when I envisioned a life focused around satisfaction and contentment, I envisioned a near monkish existence. What I saw for myself was a small, tidy home, a job I loved that didn't follow me home, and a lot of time experiencing the outdoors and engaging with my community. 
+
+When I thought of a life of contribution, the future changed. Fulfilling my duty ethic came through the lens of American society: a career I was gifted at that benefited society through the efforts of my work. I saw myself staying at the office until way after dark, then going home exhausted to my expensive bachelor's pad that lacked any sense of warmth. Days off were spent in lavish vacation, attempting to sate a void through consumption and spending. Needless to say, this vision of my life drastically aligned more towards mainstream America's expectations.
+
+Since graduating from college, my thoughts and reflections on this duality have only increased. As I grew to understand more of the world and more about myself, the space between the paths seemed to widen. The conversations and topics I found myself drawn towards contributing to with my career fostered career paths that society had told me lead to a lower quality of life; how could I be happy as a genetic or software engineer, when I had the possibility of becoming an adventure photographer or beer brewer? What was a life of offices when there were so many other countries to explore? 
+
+> The beauty I see in this approach is that it provides a way for the two paths to come together. 
+
+Over the last year, I have begun to challenge many of the notions of what makes us happy. I know what I'm supposed to believe makes us happy: traveling, bright lights, and comfortable things. However, my investigations and reflections over the last bit of my life have lead me to differenct conclusions. I believe these things are great to bring joy, but I believe that joy is short lived. Searching for quality of life in these external objects or experiences felt like treating symptoms. To treat the source, I've found, I need to look internally.
+
+Rather than seeking joy by sating desires, I have lately been exploring a pursuit of quality existence by reducing the desires themselves. I feel it is an approach that goes beyond providing joy in only the immediate moment, and instead holds the potential for expanding joy and contentment throughout my whole life. This is certainly not a goal yet realized, but I can't help but be optimistic at this early outset. Futhermore, the beauty I see in this approach is that it provides a way for the two paths, contribution and happiness, to come together. 
+
+Happiness in this lens is no longer exclusive to brewing beer and traveling. Rather, it is a perspective, and as such can hopefully be realized in any number of lifestyles. One of these lifestyles, I hope, is one that is relatively career-centric. I am hoping that, in a lifestyle of mindfulness and contentment, I will be happy seeing the sights of my familiar commute to work, the faces of my friends and coworkers, and the warm space of whatever awaits me at home. I won't feel the need to escape my demanding job. Rather, I'm hoping the sensation of contributing my best to my fellow beings and the universe we share will provide an incredible quality of life on its own. I'm hoping that I won't need to learn to walk two paths; I'm hoping the paths will become one.
