@@ -29,3 +29,7 @@ I learned about losing a child to abortion. I learned about the struggles of gro
 None of this was learned from reading, or watching a movie. All this perspective, all this impossible insight, was gained by standing in the shoes of the poet at the mic. Often, seeing the world through their eyes lead me to blink back tears. Yet at the end of the night, I walked into the air with a sense of appreciation, gratitude, and oneness for my fellow human beings I don't know if I've ever felt before. 
 
 So now it's two days later. I'm still reeling from the whole experience, but have been able to reflect at least a little. I am coming to terms with my lack of giving back through performing. I don't feel slam is the medium I can most effectively communicate in. Yet, my life was just altered by this art form. I saw the oneness between me and those around me. And in pursuit of that perspective, that enlightenment, I have come to this conclusion: I may not have much to say, but I still have so, so much to hear. 
+
+<hr class="link-divider">
+
+The poetry event: <a href="http://iwps.poetryslam.com/" target="_blank">Individual World Poetry Slam</a>
