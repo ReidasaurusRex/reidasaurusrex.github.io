@@ -24,7 +24,7 @@ I will not yell at you. I will not call you a bigot. This is simply an honest pl
 
 This is not some metaphorical expression or political piece. Please hit the link below, and send me an email. I'd love to receive it.
 
-Thank you, I'm hoping to hear from you soon, 
+Thank you, I'm hoping to hear from you soon, <br>
 Reid
 
 <hr class="link-divider">
