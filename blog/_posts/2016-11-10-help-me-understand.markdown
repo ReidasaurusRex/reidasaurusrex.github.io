@@ -18,7 +18,9 @@ If you support him because of his trade policies, I would love to know more abou
 
 If you support him because you feel protection from illegal immigration is the most important thing, and he's the man for the job, I'm all ears if you'd articulate that opinion my way. 
 
-Even if you feel he's the best person to get the LGBTQ and Muslim communities out of America, and you feel this is what the world needs to be a better place, please help me understand that perspective.
+If you support him because of his or Pence's stance on the LGBTQ community, please tell me more about those thoughts.
+
+Even if you feel he's the best person to get the Muslim and immigrant communities out of America, and you feel this is what the world needs to be a better place, please help me understand that perspective.
 
 I will not yell at you. I will not call you a bigot. This is simply an honest plea for help. If you'd like, I of course have my own opinions, and would love to chat with you about my own perspective. But if you simply would like to share your own, I'll be extremely appreciative of that too. 
 
